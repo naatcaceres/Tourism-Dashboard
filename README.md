@@ -8,9 +8,19 @@ The repository contains five notebooks:
 - 03.eda.ipynb: Conducts an exploratory analysis of our already processed data to gain a better understanding of the information we have available
 - 04.ranking.ipynb: Conducts an analysis of our available data, establishing the baseline for our dashboard's correct functioning. It also creates the final datasets in the proper format to feed our dashboard
 
+## Quick Guide ##
+To follow along the complete process, the reader should go to the four notebooks in order. If, instead, the user would like to access the tool directly, they could simply run dashboard.py using the following command in their terminal: streamlit run dashboard.py
+
 ## Dependencies ##
 - Python
 - streamlit
-
-## Quick Guide ##
-To follow along the complete process, the reader should go to the four notebooks in order. If, instead, the user would like to access the tool directly, they could simply run dashboard.py using the following command in their terminal: streamlit run dashboard.py
+- pandas
+- numpy
+- selenium
+- lxml
+- xpath
+- time
+- matplotlib
+- seaborn
+- plotly
+- warnings
