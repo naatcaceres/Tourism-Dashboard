@@ -1,0 +1,18 @@
+,variable,weight,use
+0,Senior Population,0.32,True
+1,Terrorism,0.18,True
+2,Visa Openness,0.29,True
+3,Environmental Score,0.25,True
+4,Sanitation,0.44,True
+5,World Heritage Sites,0.84,True
+6,Amusement Parks,0.46,True
+7,Cuisine,0.54,True
+8,Safety,0.06,False
+9,Michelin Stars,0.66,False
+10,Ecosystem Vitality,0.27,False
+11,Biodiversity & Habitat,0.22,False
+12,Environmental Health,0.42,False
+13,Air Quality,0.37,False
+14,Recycling,0.26,False
+15,Ocean Plastics,0.33,False
+16,Climate Change Policy,0.0,False
